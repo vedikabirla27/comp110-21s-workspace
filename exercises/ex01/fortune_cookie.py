@@ -9,9 +9,7 @@ __author__ = "730393936"
 # Documentation: https://docs.python.org/3/library/random.html#random.randint
 #
 # For example, consider the function call expression: randint(1, 100)
-# It will evaluate to an int value >= 1 and <= 100. 
-from random import randint
-
+# It will evaluate to an int value >= 1 and <= 100.
 
 # Begin your solution here...
 print("Your fortune cookie says...")
