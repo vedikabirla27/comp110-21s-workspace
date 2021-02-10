@@ -2,7 +2,7 @@
 
 __author__ = "730393936"
 
-
+from random import randint
 # he randint function is imported from the random library so that
 # you are able to generate integers at random.
 # 
@@ -13,8 +13,7 @@ __author__ = "730393936"
 
 # Begin your solution here...
 print("Your fortune cookie says...")
-from random import randint
-a = randint (1,100)
+a = randint(1 , 100)
 if a < 50:
     if a < 25:
         print("Soon life will become more interesting") 
